@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="is_this">0</string>
+    <string name="count_button">Count</string>
+    <string name="toast_button">Toast</string>
+    <string name="random_button">Random</string>
+    <string name="toast_string">Hello Toast</string>
+    <string name="random_desc">Generate a random number between 0 and %1d</string>
+</resources>
